@@ -1,0 +1,4 @@
+D 'scoregof': Score test of normality for probit and bivariate probit Use scoregof With STATA 19
+D
+F scoregof.ado
+F scoregof.sthlp

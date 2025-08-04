@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p scoregof Score test of normality for probit and bivariate probit Use scoregof With STATA 19
