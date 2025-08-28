@@ -1,6 +1,8 @@
 # scoregof
 Score test of normality for probit and bivariate probit Use scoregof With STATA 19
 
+https://www.youtube.com/watch?v=Dd3MKEmxKrw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
